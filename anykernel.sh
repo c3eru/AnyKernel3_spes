@@ -4,9 +4,9 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=topaz
+kernel.string=RN11
 kernel.compiler=AOSP clang
-kernel.made=CHRISL7
+kernel.made=mobxprjkt
 message.word=
 do.devicecheck=1
 do.modules=0
